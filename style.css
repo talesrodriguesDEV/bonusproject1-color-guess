@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: coral;
+    color:darkgreen;
+    font-size: 200%;
+}
+
+#score {
+    margin-top: 20px;
+    color:indigo;
+}
+
+section {
+    margin: 50px;
+}
